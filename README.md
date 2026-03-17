@@ -158,7 +158,7 @@ for fruta in frutas:
 ```
 Este bucle recorre la lista `frutas` e imprime cada una de las `frutas`
 
-### `while``
+### `while`
 
 Por otro lado, `while` repite un bloque de código mientras una condición sea **verdadera**. No siempre sabemos cuántas veces se va a repetir, pero sí sabemos cuál es la condicion que debe cumplirse para que el bucle continúe ejecutándose.  
 
